@@ -4,7 +4,7 @@ Pomodoro To Do Progressive Web App
 
 ## License
 
-Distributed under the [MIT License](https://choosealicense.com/licenses/mit/). See `LICENSE` for more information.
+Distributed under the [MIT License](https://choosealicense.com/licenses/mit/). See [`LICENSE`](./LICENSE) for more information.
 
 ## Author
 
