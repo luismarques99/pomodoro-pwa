@@ -169,5 +169,8 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+### JetBrains IDE ###
+.idea/
+
 ### OSX ###
 .DS_Store
